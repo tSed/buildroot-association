@@ -11,8 +11,9 @@ Buildroot.
 ARTICLE 2 : Buts
 ----------------
 
-Cette association se place dans une perspective de développement du projet
-libre Buildroot.
+Cette association se place dans une perspective de développement du projet de
+lociciel libre Buildroot. Le terme developpement exclu, de facto, les activités
+de développement logiciel.
 Buildroot a pour but de simplifier et automatiser le processus de création d'un
 système embarqué.
 L'association a pour objet d'engager toute action susceptible d'assurer la

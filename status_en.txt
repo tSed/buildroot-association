@@ -1,0 +1,177 @@
+STATUTES OF THE ASSOCIATION
+===========================
+
+/!\ IMPORTANT NOTE /!\
+THIS HAS NO LEGAL VALUE.
+The association being created in France, the legal statutes are in French, this
+is only a translation maintained by members of the association. It has no legal
+value whatsoever.
+
+ARTICLE 1 : Constitution and naming
+-----------------------------------
+
+An association is created between members, agreeing to the following statutes.
+The association also follow the law of July, 1st 1901 and the decree of August,
+16th 1901.
+
+The association is named Buildroot.
+
+ARTICLE 2 : Goal
+----------------
+
+The association's main goal is to help develop the free software project
+Buildroot.
+It is excluded that the association rule in any way how the software is
+developped.
+Buildroot's main goal is to simply and automate the creation of and embedded
+operating system.
+The association must engage every action to lead the promotion, the
+developement and the democratization of the Buildroot project without any
+geographic constraint.
+
+ARTICLE 3 : Headquarters
+------------------------
+
+The headquarters are situated in Toulouse (France).
+It can be transfered by a decision of the Board.
+
+ARTICLE 4 : Duration of the association
+---------------------------------------
+
+The duration of the association is unlimited.
+
+ARTICLE 5 : Means of action
+---------------------------
+
+The means of actions of the association are:
+- Conferences, meeting, publications
+- Organisation of manifestations and every initiative that could help realize
+  the goal of the association.
+
+ARTICLE 6 : Ressources of the l'association
+-------------------------------------------
+
+The ressources of the association
+- membership fee
+- eventual grant
+- manual donation
+- any other ressources which is not againt any rules or law
+
+ARTICLE 7 : Composition of the l'association
+--------------------------------------------
+
+The association is composed as such:
+- Active members:
+Active members are up-to-date of their membership fee. They have a right to
+vote at the General Meeting.
+- Honorary members:
+Are honorary members thoses that have rendered noted services to the association.
+They don't have to pay a membership fee and they don't have a right to vote at
+the General Meeting.
+
+ARTICLE 8 : Right to vote
+-------------------------
+
+Members that have a right to vote have the possibilyt to do so remotely,
+through Internet.
+The Board is responsible to give a way to allow members to do remote voting, it
+also is responsible to inform members about this possibility.
+
+ARTICLE 9 : Admission and membership
+------------------------------------
+
+To be a part o the association, a member must agree with the statutes and pay
+the membership fee.
+The fee is specified by the General Meeting.
+
+The General Meeting can refuse membership if it think that the members to be is
+not in agreement with the goal of the association.
+An argumented note will be sent to the interested party.
+
+ARTICLE 10 : Loss of membership
+-------------------------------
+
+Cause that lead to the loss of membership:
+- Resignation
+- Death
+- The radiation pronounced by the General Meeting because of infringement of
+  the current statutes, the rules of procedure or for serious cause that could
+  morally or physically harm the association.
+  The interested party will be called upon to give explanations.
+  A recourse before the General Meeting can be asked.
+
+ARTICLE 11 : Ordinary General Meeting
+-------------------------------------
+
+The General Meeting meets at least once a civil year and is composend by all
+the members that are up-to-date of their membership fees.
+
+At least fifteen days before the fixed date, members are summoned by the Board
+or half of the active members.
+The agenda is communicated by the Board at least seven days before the General
+Meeting.
+
+The General Meeting, after deliberation, will make a summary of the activity
+report and the financial report. It also discuss the future action.
+The nomination, or renew, of the Board members will also be discussed at the
+General Meeting.
+The annual membership fee, if needs be, shall be fixed during a General Meeting
+too.
+
+The decision taken by the General Meeting are taken by the majority of the
+members presents or represented.
+A member can only have one procuration.
+A corporation has only one vote.
+
+ARTICLE 12 :  Board of directors
+--------------------------------
+
+The association is ruled in a collegial manner by a Board of directors elected
+for one year by the General Meeting through a majority list ballot system.
+Members can be re-elected.
+
+In case of vacancies, the Board will provide to the fullfilling of the job. At
+the next General Meeting, a definitive replacement must be found.
+The power of the members elected this way ends when the mandate should have
+ended in the first place.
+Underage over 16 are eligible to the Board.
+The Board's goal is to organize and to allocate tasks within the association,
+always in a democratic and transparent way.
+
+Within the board a legal representant must be named. He will represent the
+association for every civic duty that may arise and has all the power necessary
+to that effect.
+He has the responsability to handle the legal proceedings.
+
+ARTICLE 13 : Extraordinary General Meeting
+------------------------------------------
+
+If the needs arise or if asked by a quarter of the members, the Board will
+summon an Extraordinary General Meeting, as specified by Article 11.
+The agenda must be the modification of the statutes or the dissolution of the
+association.
+The decision are taken by a two-thirds majority of the present members.
+
+ARTICLE 14 : Dissolution
+------------------------
+
+If a dissolution is pronounced by an Extraordinary General Meeting (as
+specified by Article 13), one or more people are nominated to liquidate every
+assets of the association to another association with similar goals as
+specified by the article 9 of the law of July, 1st 1901 and the decree of
+August, 16th 1901.
+
+ARTICLE 15 : Rules of Procedure
+-------------------------------
+
+The Board can create rules of procedure that must be approved by the General
+Meeting.
+Theses rules are created to fix some points that were missed by the present
+statues.
+Mostly, they can specify the organization or the distribution of the tasks in
+the association.
+
+
+Les présents statuts ont été approuvés par l'assemblée constitutive du
+YYYY/MM/DD.
+Signatures des membres du Conseil d'Administration:

@@ -19,11 +19,9 @@ The association is named Buildroot.
 ARTICLE 2 : Goal
 ----------------
 
-The association's main goal is to help develop the free software project
+The association's main goal is to support the free software project
 Buildroot.
-It is excluded that the association rule in any way how the software is
-developped.
-Buildroot's main goal is to simply and automate the creation of and embedded
+Buildroot's main goal is to simplify and automate the creation of and embedded
 operating system.
 The association must engage every action to lead the promotion, the
 developement and the democratization of the Buildroot project without any
@@ -45,8 +43,8 @@ ARTICLE 5 : Means of action
 
 The means of actions of the association are:
 - Conferences, meeting, publications
-- Organisation of manifestations and every initiative that could help realize
-  the goal of the association.
+- Organisation of manifestations
+- Any initiative that could help realize the goal of the association.
 
 ARTICLE 6 : Ressources of the l'association
 -------------------------------------------
@@ -68,6 +66,9 @@ vote at the General Meeting.
 Are honorary members thoses that have rendered noted services to the association.
 They don't have to pay a membership fee and they don't have a right to vote at
 the General Meeting.
+
+Members of the association are volounteer and free to contribute according to
+their wishes and their availability.
 
 ARTICLE 8 : Right to vote
 -------------------------

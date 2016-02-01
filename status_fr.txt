@@ -11,9 +11,8 @@ Buildroot.
 ARTICLE 2 : Buts
 ----------------
 
-Cette association se place dans une perspective de développement du projet de
-lociciel libre Buildroot. Le terme developpement exclu, de facto, les activités
-de développement logiciel.
+Cette association se place dans une perspective de soutien du projet de logiciel
+libre Buildroot.
 Buildroot a pour but de simplifier et automatiser le processus de création d'un
 système embarqué.
 L'association a pour objet d'engager toute action susceptible d'assurer la
@@ -36,8 +35,8 @@ ARTICLE 5 : Moyens d'action
 
 Les moyens d'action de l'association sont notamment :
 - les conférences, les réunions de travail, les publications,
-- l'organisation de manifestations et toute initiative pouvant aider à la
-  réalisation de l'objet de l'association.
+- l'organisation de manifestations,
+- toute initiative pouvant aider à la réalisation de l'objet de l'association.
 
 ARTICLE 6 : Ressources de l'association
 ---------------------------------------
@@ -59,6 +58,9 @@ le droit de vote à l'Assemblée Générale.
 Sont membres d'honneur ceux qui ont rendu des services signalés à
 l'association. Ils sont dispensés de cotisations mais n'ont pas le droit de
 vote à l'Assemblée Générale.
+
+Les membres de l'association sont bénévoles et libres de contribuer selon
+leurs envies et leurs disponibilités.
 
 ARTICLE 8 : Droit de vote
 -------------------------

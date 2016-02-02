@@ -11,14 +11,17 @@ Buildroot Foundation.
 ARTICLE 2 : Buts
 ----------------
 
-Buildroot a pour but de simplifier et automatiser le processus de création d'un
-système embarqué.
-L'association se place dans une perspective de soutien au projet de logiciel
-libre Buildroot.
-L'association a pour objet d'engager toute action susceptible d'assurer la
+Buildroot est un projet de dévelopement d'un logiciel libre, ayant pour but
+de simplifier et automatiser le processus de création d'un système embarqué.
+
+L'association Buildroot Foundation (ci-aprés, "l'Association") se place dans
+une perspective de soutien au projet Buildroot.
+
+L'Association a pour objet d'engager toute action susceptible d'assurer la
 promotion, le développement et la démocratisation du projet Buildroot sans
 limite géographique.
-L'association n'a pas pour vocation d'interférer avec le développement logiciel
+
+L'Association n'a pas pour vocation d'interférer avec le développement logiciel
 du projet Buildroot.
 
 ARTICLE 3 : Siège social
@@ -27,32 +30,32 @@ ARTICLE 3 : Siège social
 Le siège social est fixé à Toulouse.
 Il pourra être transféré par simple décision du Conseil d'Administration.
 
-ARTICLE 4 : Durée de l'association
+ARTICLE 4 : Durée de l'Association
 ----------------------------------
 
-La durée de l'association est illimitée.
+La durée de l'Association est illimitée.
 
 ARTICLE 5 : Moyens d'action
 ---------------------------
 
-Les moyens d'action de l'association sont notamment :
+Les moyens d'action de l'Association sont notamment :
 - les conférences, les réunions de travail, les publications,
 - l'organisation de manifestations,
-- toute initiative pouvant aider à la réalisation de l'objet de l'association.
+- toute initiative pouvant aider à la réalisation de l'objet de l'Association.
 
-ARTICLE 6 : Ressources de l'association
+ARTICLE 6 : Ressources de l'Association
 ---------------------------------------
 
 Les ressources de l'association se composent:
-- des cotisations
-- de subventions éventuelles
-- des dons manuels
+- des cotisations,
+- de subventions éventuelles,
+- des dons manuels,
 - de toute autre ressource qui ne soit pas contraire aux règles en vigueur.
 
-ARTICLE 7 : Composition de l'association
+ARTICLE 7 : Composition de l'Association
 ----------------------------------------
 
-L'association se compose de membres actifs. Sont membres actifs ceux qui sont
+L'Association se compose de membres actifs. Sont membres actifs ceux qui sont
 à jour de leur cotisation annuelle. Ils ont le droit de vote à l'Assemblée
 Générale.
 
@@ -61,9 +64,9 @@ ARTICLE 8 : Droit de vote
 
 Les membres disposant d'un droit de vote ont la possibilité de disposer de ce
 droit:
-- de par leur présence à l'Assemblée Générale
-- par procuration à un membre présent à l'Assemblée Générale
-- à distance, via Internet
+- de par leur présence à l'Assemblée Générale,
+- par procuration à un membre présent à l'Assemblée Générale,
+- à distance, via Internet.
 
 Le Conseil d'Administration est en charge de fournir les moyens nécessaires à
 ce type de votation et d'informer les membres de son existence.
@@ -71,14 +74,13 @@ ce type de votation et d'informer les membres de son existence.
 ARTICLE 9 : Admission et adhésion
 ---------------------------------
 
-Pour faire partie de l'association, il faut adhérer aux présents statuts et
-s'acquitter de la cotisation dont le montant est fixé par l'Assemblée Générale.
-Afin d'être accepté, un membre devra être accepté par l'Assemblée Générale.
-De part ce fait, l'adhésion a lieu uniquement durant l'Assemblée Générale.
+L'adhésion à l'Association est sujette àux conditions suivantes :
+  - accepter les présents statuts,
+  - s'acquitter des de la cotisation annuelle, dont le montant est fixé
+    par l'Assemblée Générale.
 
-Le Conseil d'Administration pourra refuser des adhésions dans le cas où il
-estime que la personne demandant l'adhésion est en contradiction avec le but de
-l'association. Un avis motivé sera adressé aux intéressés.
+Le Conseil d'Administration pourra refuser des adhésions. Un avis sera
+adressé aux intéressés.
 
 ARTICLE 10 : Perte de la qualité de membre
 ------------------------------------------
@@ -87,19 +89,19 @@ La qualité de membre se perd par:
 - La démission
 - Le décès
 - La radiation prononcée par le Conseil d'Administration pour infraction aux
-présents statuts, pour non-respect du règlement intérieur ou pour motif grave
-portant préjudice moral ou matériel à l'association. L'intéressé ayant été
-préalablement appelé à fournir ses explications. Un recours non suspensif
-devant l'assemblée générale peut être demandé.
+  présents statuts, pour non-respect du règlement intérieur ou pour motif grave
+  portant préjudice moral ou matériel à l'Association. L'intéressé ayant été
+  préalablement appelé à fournir ses explications. Un recours non suspensif
+  devant l'Assemblée Générale peut être demandé.
 
 ARTICLE 11 : Assemblée Générale Ordinaire
 -----------------------------------------
 
 L'Assemblée Générale Ordinaire se réunit au moins une fois par année civile et
-comprend tous les membres de l'association à jour de leur cotisation.
-Quinze jours au moins avant la date fixée, les membres de l'association sont
+comprend tous les membres de l'Association à jour de leur cotisation.
+Quinze jours au moins avant la date fixée, les membres de l'Association sont
 convoqués à la demande du Conseil d'Administration, ou du quart des membres
-actifs de l'association.
+actifs de l'Association.
 L'ordre du jour est communiqué par le Conseil d'Administration sept jours au
 moins avant l'Assemblée générale.
 L'Assemblée Générale, après avoir délibéré, se prononce sur le rapport moral ou
@@ -125,11 +127,11 @@ remplaçant. Les pouvoirs des membres ainsi nommés prennent fin à la prochaine
 Assemblée Générale.
 
 Le Conseil d'Administration a pour rôle d'organiser et de répartir les tâches
-au sein de l'association, avec une volonté permanente de démocratie et de
+au sein de l'Association, avec une volonté permanente de démocratie et de
 transparence.
-Il nomme en son sein un représentant légal. Celui-ci représente l'association
+Il nomme en son sein un représentant légal. Celui-ci représente l'Association
 pour tous les actes de la vie civile et est investi de tous les pouvoirs à cet
-effet. Il a qualité pour ester en justice au nom de l'association, tant en
+effet. Il a qualité pour ester en justice au nom de l'Association, tant en
 demande qu'en défense.
 
 ARTICLE 13 : Assemblée Générale Extraordinaire
@@ -158,7 +160,7 @@ Un règlement intérieur peut être établi par le Conseil d'Administration qui 
 fait alors approuver par l'Assemblée Générale.
 Ce règlement éventuel est destiné à fixer les divers points non prévus par les
 statuts, notamment ceux qui ont trait à l'organisation et à la répartition des
-tâches dans l'association.
+tâches dans l'Association.
 
 
 Les présents statuts ont été approuvés par l'assemblée constitutive du

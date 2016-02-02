@@ -14,7 +14,7 @@ An association is created between members, agreeing to the following statutes.
 The association also follow the law of July, 1st 1901 and the decree of August,
 16th 1901.
 
-The association is named Buildroot.
+The association is named "Buildroot Foundation"
 
 ARTICLE 2 : Goal
 ----------------
@@ -58,14 +58,9 @@ The ressources of the association
 ARTICLE 7 : Composition of the l'association
 --------------------------------------------
 
-The association is composed as such:
-- Active members:
+The association is composed with active members:
 Active members are up-to-date of their membership fee. They have a right to
 vote at the General Meeting.
-- Honorary members:
-Are honorary members thoses that have rendered noted services to the association.
-They don't have to pay a membership fee and they don't have a right to vote at
-the General Meeting.
 
 Members of the association are volounteer and free to contribute according to
 their wishes and their availability.
@@ -81,8 +76,11 @@ also is responsible to inform members about this possibility.
 ARTICLE 9 : Admission and membership
 ------------------------------------
 
-To be a part o the association, a member must agree with the statutes and pay
-the membership fee.
+To be a part o the association, a member must agree with the statutes, pay
+the membership fee and be accepted by the General Meeting.
+This also means that membership will only takes place during the General
+Meeting.
+
 The fee is specified by the General Meeting.
 
 The General Meeting can refuse membership if it think that the members to be is
@@ -128,14 +126,13 @@ ARTICLE 12 :  Board of directors
 --------------------------------
 
 The association is ruled in a collegial manner by a Board of directors elected
-for one year by the General Meeting through a majority list ballot system.
+for one year by the General Meeting through a majority ballot system.
 Members can be re-elected.
 
-In case of vacancies, the Board will provide to the fullfilling of the job. At
-the next General Meeting, a definitive replacement must be found.
+In case of vacancies, the Board may provide to the fullfilling of the job. At
+the next General Meeting, a replacement may be found.
 The power of the members elected this way ends when the mandate should have
 ended in the first place.
-Underage over 16 are eligible to the Board.
 The Board's goal is to organize and to allocate tasks within the association,
 always in a democratic and transparent way.
 

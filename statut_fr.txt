@@ -4,20 +4,22 @@ STATUS DE L'ASSOCIATION
 ARTICLE 1 : Constitution et dénomination
 ----------------------------------------
 
-Il est fondé entre les adhérents aux présents statuts une association régie par
+Il est fondé entre les membres aux présents statuts une association régie par
 la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre
-Buildroot.
+Buildroot Foundation.
 
 ARTICLE 2 : Buts
 ----------------
 
-Cette association se place dans une perspective de soutien du projet de logiciel
-libre Buildroot.
 Buildroot a pour but de simplifier et automatiser le processus de création d'un
 système embarqué.
+L'association se place dans une perspective de soutien du projet de logiciel
+libre Buildroot.
 L'association a pour objet d'engager toute action susceptible d'assurer la
 promotion, le développement et la démocratisation du projet Buildroot sans
 limite géographique.
+L'association n'a pas pour vocation d'interferer avec le développement logiciel
+du projet Buildroot.
 
 ARTICLE 3 : Siège social
 ------------------------
@@ -50,17 +52,9 @@ Les ressources de l'association se composent:
 ARTICLE 7 : Composition de l'association
 ----------------------------------------
 
-L'association se compose de :
-- Membres actifs ou adhérents:
+L'association se compose de membres actifs:
 Sont membres actifs ceux qui sont à jour de leur cotisation annuelle. Ils ont
 le droit de vote à l'Assemblée Générale.
-- Membres d'honneur:
-Sont membres d'honneur ceux qui ont rendu des services signalés à
-l'association. Ils sont dispensés de cotisations mais n'ont pas le droit de
-vote à l'Assemblée Générale.
-
-Les membres de l'association sont bénévoles et libres de contribuer selon
-leurs envies et leurs disponibilités.
 
 ARTICLE 8 : Droit de vote
 -------------------------
@@ -75,6 +69,8 @@ ARTICLE 9 : Admission et adhésion
 
 Pour faire partie de l'association, il faut adhérer aux présents statuts et
 s'acquitter de la cotisation dont le montant est fixé par l'Assemblée Générale.
+Afin d'etre accepté, un membre devra etre accepté par l'Assemblée Générale.
+De part ce fait, l'adhésion a lieu uniquement durant l'Assemblée Générale.
 
 Le Conseil d'Administration pourra refuser des adhésions dans le cas où il
 estime que la personne demandant l'adhésion est en contradiction avec le but de
@@ -117,14 +113,13 @@ ARTICLE 12 :  Conseil d'Administration
 --------------------------------------
 
 L'Association est dirigée de manière collégiale par un Conseil d'Administration
-élu pour un an par l'Assemblée Générale lors d'un scrutin de liste majoritaire
-à un tour. Les membres sont rééligibles.
-En cas de vacance de poste, le Conseil d'Administration pourvoit provisoirement
-au remplacement de ses membres. Il est procédé à leur remplacement définitif à
-la  prochaine Assemblée Générale.
-Les pouvoirs des membres ainsi élus prennent fin à l'époque où devrait
-normalement expirer le mandat des membres remplacés. Les mineurs de plus de 16
-ans sont éligibles au Conseil d'Administration.
+élu pour un an par l'Assemblée Générale lors d'un scrutin majoritaire à un
+tour. Les membres sont rééligibles.
+En cas de vacance de poste, le Conseil d'Administration peut nommer un membre
+remplacant. Il est procédé à leur remplacement définitif à la  prochaine
+Assemblée Générale.
+Les pouvoirs des membres ainsi nommés prennent fin à l'époque où devrait
+normalement expirer le mandat des membres remplacés.
 Le Conseil d'Administration a pour rôle d'organiser et de répartir les tâches
 au sein de l'association, avec une volonté permanente de démocratie et de
 transparence.

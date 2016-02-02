@@ -73,7 +73,7 @@ ARTICLE 9 : Admission et adhésion
 
 Pour faire partie de l'association, il faut adhérer aux présents statuts et
 s'acquitter de la cotisation dont le montant est fixé par l'Assemblée Générale.
-Afin d'être accepté, un membre devra etre accepté par l'Assemblée Générale.
+Afin d'être accepté, un membre devra être accepté par l'Assemblée Générale.
 De part ce fait, l'adhésion a lieu uniquement durant l'Assemblée Générale.
 
 Le Conseil d'Administration pourra refuser des adhésions dans le cas où il
@@ -87,7 +87,7 @@ La qualité de membre se perd par:
 - La démission
 - Le décès
 - La radiation prononcée par le Conseil d'Administration pour infraction aux
-présents statuts, pour non-respect du réglement intérieur ou pour motif grave
+présents statuts, pour non-respect du règlement intérieur ou pour motif grave
 portant préjudice moral ou matériel à l'association. L'intéressé ayant été
 préalablement appelé à fournir ses explications. Un recours non suspensif
 devant l'assemblée générale peut être demandé.
@@ -121,7 +121,7 @@ L'Association est dirigée de manière collégiale par un Conseil d'Administrati
 tour. Les membres sont rééligibles.
 
 En cas de vacance de poste, le Conseil d'Administration peut nommer un membre
-remplacant. Les pouvoirs des membres ainsi nommés prennent fin à la prochaine
+remplaçant. Les pouvoirs des membres ainsi nommés prennent fin à la prochaine
 Assemblée Générale.
 
 Le Conseil d'Administration a pour rôle d'organiser et de répartir les tâches

@@ -2,7 +2,8 @@ STATUTES OF THE ASSOCIATION
 ===========================
 
 /!\ IMPORTANT NOTE /!\
-THIS HAS NO LEGAL VALUE.
+THIS TEXT HAS NO LEGAL VALUE.
+
 The association being created in France, the legal statutes are in French, this
 is only a translation maintained by members of the association. It has no legal
 value whatsoever.
@@ -19,13 +20,18 @@ The association is named "Buildroot Foundation"
 ARTICLE 2 : Goal
 ----------------
 
-The association's main goal is to support the free software project
-Buildroot.
-Buildroot's main goal is to simplify and automate the creation of and embedded
-operating system.
-The association must engage every action to lead the promotion, the
-developement and the democratization of the Buildroot project without any
-geographic constraint.
+Buildroot is a project for the development of a free software, which goal is to
+simplify and automate the process of building embdeded systems.
+
+The goal for the Buildroot Foundation association (thereafter "the Association")
+is to support the Buildroot project.
+
+The Association has for goal to engage actions to promote, help develop and
+democratise the Buildroot project wihtout geographical limitation.
+
+The Association has no vocation of leading the software devlopment of the
+Buildroot project.
+
 
 ARTICLE 3 : Headquarters
 ------------------------
@@ -33,37 +39,33 @@ ARTICLE 3 : Headquarters
 The headquarters are situated in Toulouse (France).
 It can be transfered by a decision of the Board.
 
-ARTICLE 4 : Duration of the association
+ARTICLE 4 : Duration of the Association
 ---------------------------------------
 
-The duration of the association is unlimited.
+The duration of the Association is unlimited.
 
 ARTICLE 5 : Means of action
 ---------------------------
 
-The means of actions of the association are:
+The means of actions of the Association are:
 - Conferences, meeting, publications
 - Organisation of manifestations
-- Any initiative that could help realize the goal of the association.
+- Any initiative that could help realize the goal of the Association.
 
-ARTICLE 6 : Ressources of the l'association
+ARTICLE 6 : Ressources of the l'Association
 -------------------------------------------
 
-The ressources of the association
+The ressources of the Association are:
 - membership fee
 - eventual grant
 - manual donation
 - any other ressources which is not againt any rules or law
 
-ARTICLE 7 : Composition of the l'association
+ARTICLE 7 : Composition of the l'Association
 --------------------------------------------
 
-The association is composed with active members:
-Active members are up-to-date of their membership fee. They have a right to
-vote at the General Meeting.
-
-Members of the association are volounteer and free to contribute according to
-their wishes and their availability.
+The Association is composed of active members. Active members are up-to-date
+of their membership fee. They have a right to vote at the General Meeting.
 
 ARTICLE 8 : Right to vote
 -------------------------
@@ -71,7 +73,7 @@ ARTICLE 8 : Right to vote
 Members that have a right to vote have the possibilyt to do so:
 - by their physical presence at the General Meeting
 - by procuration to a member physically present at the General Meeting
-- remotely through Internet
+- remotely via Internet
 
 The Board is responsible to give a way to allow members to do remote voting, it
 also is responsible to inform members about this possibility.
@@ -79,16 +81,10 @@ also is responsible to inform members about this possibility.
 ARTICLE 9 : Admission and membership
 ------------------------------------
 
-To be a part o the association, a member must agree with the statutes, pay
-the membership fee and be accepted by the General Meeting.
-This also means that membership will only takes place during the General
-Meeting.
-
-The fee is specified by the General Meeting.
-
-The General Meeting can refuse membership if it think that the members to be is
-not in agreement with the goal of the association.
-An argumented note will be sent to the interested party.
+Joining the Associatoin is subject to the following conditions:
+  - accepting the present statutes,
+  - to pay the annual fee, which value will be decided by the General
+    Meeting.
 
 ARTICLE 10 : Loss of membership
 -------------------------------
@@ -96,11 +92,11 @@ ARTICLE 10 : Loss of membership
 Cause that lead to the loss of membership:
 - Resignation
 - Death
-- The radiation pronounced by the General Meeting because of infringement of
+- The radiation pronounced by the Board because of infringement of
   the current statutes, the rules of procedure or for serious cause that could
-  morally or physically harm the association.
-  The interested party will be called upon to give explanations.
-  A recourse before the General Meeting can be asked.
+  morally or physically harm the Association. The interested party will be
+  called upon to provide explanations. A recourse before the General Meeting
+  can be asked.
 
 ARTICLE 11 : Ordinary General Meeting
 -------------------------------------
@@ -128,18 +124,18 @@ A corporation has only one vote.
 ARTICLE 12 :  Board of directors
 --------------------------------
 
-The association is ruled in a collegial manner by a Board of directors elected
+The Association is ruled in a collegial manner by a Board of directors elected
 for one year by the General Meeting through a majority ballot system.
 Members can be re-elected.
 
 In case of vacancies, the Board may provide to the fullfilling of the job. At
 the next General Meeting, a replacement may be found.
 The power of the members elected this way ends at the next General Meeting.
-The Board's goal is to organize and to allocate tasks within the association,
+The Board's goal is to organize and to allocate tasks within the Association,
 always in a democratic and transparent way.
 
 Within the board a legal representant must be named. He will represent the
-association for every civic duty that may arise and has all the power necessary
+Association for every civic duty that may arise and has all the power necessary
 to that effect.
 He has the responsability to handle the legal proceedings.
 
@@ -149,7 +145,7 @@ ARTICLE 13 : Extraordinary General Meeting
 If the needs arise or if asked by a quarter of the members, the Board will
 summon an Extraordinary General Meeting, as specified by Article 11.
 The agenda must be the modification of the statutes or the dissolution of the
-association.
+Association.
 The decision are taken by a two-thirds majority of the present members.
 
 ARTICLE 14 : Dissolution
@@ -157,7 +153,7 @@ ARTICLE 14 : Dissolution
 
 If a dissolution is pronounced by an Extraordinary General Meeting (as
 specified by Article 13), one or more people are nominated to liquidate every
-assets of the association to another association with similar goals as
+assets of the Association to another association with similar goals as
 specified by the article 9 of the law of July, 1st 1901 and the decree of
 August, 16th 1901.
 
@@ -169,7 +165,7 @@ Meeting.
 Theses rules are created to fix some points that were missed by the present
 statues.
 Mostly, they can specify the organization or the distribution of the tasks in
-the association.
+the Association.
 
 
 Les présents statuts ont été approuvés par l'assemblée constitutive du

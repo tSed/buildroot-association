@@ -68,8 +68,11 @@ their wishes and their availability.
 ARTICLE 8 : Right to vote
 -------------------------
 
-Members that have a right to vote have the possibilyt to do so remotely,
-through Internet.
+Members that have a right to vote have the possibilyt to do so:
+- by their physical presence at the General Meeting
+- by procuration to a member physically present at the General Meeting
+- remotely through Internet
+
 The Board is responsible to give a way to allow members to do remote voting, it
 also is responsible to inform members about this possibility.
 
@@ -106,7 +109,7 @@ The General Meeting meets at least once a civil year and is composend by all
 the members that are up-to-date of their membership fees.
 
 At least fifteen days before the fixed date, members are summoned by the Board
-or half of the active members.
+or a quarter of the active members.
 The agenda is communicated by the Board at least seven days before the General
 Meeting.
 
@@ -118,7 +121,7 @@ The annual membership fee, if needs be, shall be fixed during a General Meeting
 too.
 
 The decision taken by the General Meeting are taken by the majority of the
-members presents or represented.
+members presents, represented through procuration or voting remotely.
 A member can only have one procuration.
 A corporation has only one vote.
 
@@ -131,8 +134,7 @@ Members can be re-elected.
 
 In case of vacancies, the Board may provide to the fullfilling of the job. At
 the next General Meeting, a replacement may be found.
-The power of the members elected this way ends when the mandate should have
-ended in the first place.
+The power of the members elected this way ends at the next General Meeting.
 The Board's goal is to organize and to allocate tasks within the association,
 always in a democratic and transparent way.
 

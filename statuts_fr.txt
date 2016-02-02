@@ -178,11 +178,22 @@ Les présents statuts ont été approuvés par l'Assemblée Constitutive du
 Noms et signatures des membres du Conseil d'Administration :
 
 
-Romain Naour
-Peter Korsgaard
-Thomas Petazzoni
-Yann E. MORIN
-Maxime Hadjinlian
-Samuel Martin
-Thomas De Schampheleire
-Arnout Vandecappelle
+Thomas De Schampheleire                 Maxime Hadjinlian
+
+
+
+
+
+Peter Korsgaard                         Samuel Martin
+
+
+
+
+
+Yann E. MORIN                           Romain Naour
+
+
+
+
+
+Thomas Petazzoni                        Arnout Vandecappelle

@@ -1,0 +1,27 @@
+The ledger.txt files in the sub-directories have the following format.
+
+Date        +/- Amount      Reference       Reason
+1970-01-01  +   123.45      N/A             Someone donated some money
+1975-04-22  -    11.23      Receipt-00.pdf  We paid something
+
+
+Date:
+    RFC3339-style date (not time) of the transaction.
+
++/-:
+    Either '+' for money we receive or '-' for money we spend.
+
+Amount
+    Amount of money, in Euros, of the transaction. When the original currency
+    is not Euros, the documents of the transaction shall include the amount
+    in that currency and the necessary conversion rate.
+
+Reference
+    Name of a file or directory with the documents of the transaction.
+    When there are multiple documents for the transaction, use a directory,
+    and suffix the name with a slash '/'. There shall be no space in that
+    file-or-directory name. Use N/A when there is no associated document
+    (this should *not* happen).
+
+Reason
+    Human-readable short description of the reason for the transaction.

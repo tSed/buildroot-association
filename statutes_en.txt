@@ -11,11 +11,9 @@ value whatsoever.
 ARTICLE 1 : Constitution and naming
 -----------------------------------
 
-An association is created between members, agreeing to the following statutes.
-The association also follow the law of July, 1st 1901 and the decree of August,
-16th 1901.
-
-The association is named "Buildroot Foundation"
+An association is founded between the members, agreeing to the present statutes,
+and in accordance to the law of July the first, 1901 and the application decree
+of August, the sixteenth, 1901, and named Buildroot Foundation.
 
 ARTICLE 2 : Goal
 ----------------
@@ -37,7 +35,7 @@ ARTICLE 3 : Headquarters
 ------------------------
 
 The headquarters are situated in Toulouse (France).
-It can be transfered by a decision of the Board.
+They can be transfered by a decision of the Board.
 
 ARTICLE 4 : Duration of the Association
 ---------------------------------------
@@ -47,127 +45,153 @@ The duration of the Association is unlimited.
 ARTICLE 5 : Means of action
 ---------------------------
 
-The means of actions of the Association are:
-- Conferences, meeting, publications
-- Organisation of manifestations
-- Any initiative that could help realize the goal of the Association.
+The means of action of the Association are:
+- conferences, working meeting, publications, organising of manifestations ;
+- any other initiative that will help realize the goal of the Association.
 
-ARTICLE 6 : Ressources of the l'Association
+ARTICLE 6 : Ressources of the Association
 -------------------------------------------
 
 The ressources of the Association are:
-- membership fee
-- eventual grant
-- manual donation
-- any other ressources which is not againt any rules or law
+- membership fees,
+- eventual grants,
+- donations,
+- any other ressource which is not againt any applicable law.
 
 ARTICLE 7 : Composition of the l'Association
 --------------------------------------------
 
-The Association is composed of active members. Active members are up-to-date
-of their membership fee. They have a right to vote at the General Meeting.
+The Association is composed of members, physical persons or moral persons.
+
+Members are up-to-date with their membership fee. They have a right to
+vote at the General Meeting.
 
 ARTICLE 8 : Right to vote
 -------------------------
 
-Members that have a right to vote have the possibilyt to do so:
-- by their physical presence at the General Meeting
-- by procuration to a member physically present at the General Meeting
-- remotely via Internet
-
-The Board is responsible to give a way to allow members to do remote voting, it
-also is responsible to inform members about this possibility.
+Members that have a right to vote have the possibily to do so:
+- by their physical presence at the General Meeting,
+- by procuration to a member physically present at the General Meeting,
+- remotely via Internet.
 
 ARTICLE 9 : Admission and membership
 ------------------------------------
 
 Joining the Associatoin is subject to the following conditions:
   - accepting the present statutes,
-  - to pay the annual fee, which value will be decided by the General
+  - paying the annual fee, which value will be decided by the General
     Meeting.
 
 ARTICLE 10 : Loss of membership
 -------------------------------
 
-Cause that lead to the loss of membership:
-- Resignation
-- Death
-- The radiation pronounced by the Board because of infringement of
-  the current statutes, the rules of procedure or for serious cause that could
-  morally or physically harm the Association. The interested party will be
-  called upon to provide explanations. A recourse before the General Meeting
-  can be asked.
+Causes that lead to the loss of membership:
+- missing payment of the annual fee,
+- resignation,
+- death,
+- the radiation pronounced by the Board because of infringement to the
+  current statutes, to the internal rules or for serious cause that would
+  harm the Association. The interested party will be called upon to provide
+  explanations. A non-suspensive recourse before the General Meeting can be
+  requested.
 
 ARTICLE 11 : Ordinary General Meeting
 -------------------------------------
 
 The General Meeting meets at least once a civil year and is composend by all
-the members that are up-to-date of their membership fees.
+the members of the Association, present or represented.
 
 At least fifteen days before the fixed date, members are summoned by the Board
-or a quarter of the active members.
+or by a quarter of the active members.
+
 The agenda is communicated by the Board at least seven days before the General
 Meeting.
 
 The General Meeting, after deliberation, will make a summary of the activity
-report and the financial report. It also discuss the future action.
-The nomination, or renew, of the Board members will also be discussed at the
+report and the financial report. It also discusses the future actions.
+
+The nomination, or renewal, of the Board members will also be discussed at the
 General Meeting.
-The annual membership fee, if needs be, shall be fixed during a General Meeting
-too.
 
-The decision taken by the General Meeting are taken by the majority of the
-members presents, represented through procuration or voting remotely.
-A member can only have one procuration.
-A corporation has only one vote.
+As well, the annual membership fee shall be fixed during a General Meeting.
 
-ARTICLE 12 :  Board of directors
---------------------------------
+Decisions at the General Meeting are taken by the majority of the members
+presents, represented through procuration or voting remotely.
 
-The Association is ruled in a collegial manner by a Board of directors elected
-for one year by the General Meeting through a majority ballot system.
-Members can be re-elected.
+Members, whether they are a physical person or a moral person, have a single
+voice each. A member can only bear one procuration.
 
-In case of vacancies, the Board may provide to the fullfilling of the job. At
-the next General Meeting, a replacement may be found.
-The power of the members elected this way ends at the next General Meeting.
-The Board's goal is to organize and to allocate tasks within the Association,
-always in a democratic and transparent way.
+ARTICLE 12 :  Board
+-------------------
 
-Within the board a legal representant must be named. He will represent the
-Association for every civic duty that may arise and has all the power necessary
-to that effect.
-He has the responsability to handle the legal proceedings.
+The Association is ruled in a collegial manner by a Board elected for one
+year by the General Meeting through a majority ballot system.  Members can
+be re-elected.
+
+In case of vacancy, the Board may nominate a member to act as substitue.
+Powers of such a substitue end at the nest General Assembly.
+
+The Board will have to organise and distribute the tasks to members of the
+Associations, with a constant will of fairness and openness.
+
+The Board will nominate amongst its members a legal representative, who
+will represent the Association for all things in the civil life and is
+vested with all powers to that effect. He is allowed to represent the
+Association before a court of Law, both as a requester or as a defendant.
 
 ARTICLE 13 : Extraordinary General Meeting
 ------------------------------------------
 
-If the needs arise or if asked by a quarter of the members, the Board will
-summon an Extraordinary General Meeting, as specified by Article 11.
-The agenda must be the modification of the statutes or the dissolution of the
-Association.
-The decision are taken by a two-thirds majority of the present members.
+If the needs arises, or on request by a quarter of the members, the Board will
+summon an Extraordinary General Meeting.
 
-ARTICLE 14 : Dissolution
+The conditions to summon are the same as for the Ordinary General Meeting.
+The agenda is either the modification of the statutes or the disbandment of
+the Association. The decisions are taken by a two-thirds majority of the
+members or represented.
+
+ARTICLE 14 : Disbandment
 ------------------------
 
-If a dissolution is pronounced by an Extraordinary General Meeting (as
-specified by Article 13), one or more people are nominated to liquidate every
-assets of the Association to another association with similar goals as
-specified by the article 9 of the law of July, 1st 1901 and the decree of
-August, 16th 1901.
+If a disbandment is pronounced by an Extraordinary General Meeting, as
+specified by Article 13, it will nominate one or more liquidators, and
+the assets, if any, are transferred to another association with similar
+goals, pursuant article 9 of the law of July the first, 1901 and the
+application decree of August the sixteenth, 1901.
 
-ARTICLE 15 : Rules of Procedure
--------------------------------
+ARTICLE 15 : Internal Rules
+---------------------------
 
-The Board can create rules of procedure that must be approved by the General
-Meeting.
-Theses rules are created to fix some points that were missed by the present
-statues.
-Mostly, they can specify the organization or the distribution of the tasks in
-the Association.
+The board may establish Internal Rules and have them validated by the
+General Assembly.
+
+Theses rules are created to fix the various points not covered by the
+statutes, notably those pertaining to the organisation and distribution
+of the tasks within the Association.
 
 
-Les présents statuts ont été approuvés par l'assemblée constitutive du
-YYYY/MM/DD.
-Signatures des membres du Conseil d'Administration:
+Present statutes have been approved by the Constitutive Assembly of
+02/02/2016.
+
+Names and signatures of the members of the Board:
+
+
+Thomas De Schampheleire                 Maxime Hadjinlian
+
+
+
+
+
+Peter Korsgaard                         Samuel Martin
+
+
+
+
+
+Yann E. MORIN                           Romain Naour
+
+
+
+
+
+Thomas Petazzoni                        Arnout Vandecappelle

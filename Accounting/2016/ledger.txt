@@ -1,0 +1,2 @@
+2015-02-07  +   423.14      GSoC-2014.pdf       Google Summer of Code 2014 mentor stipends (previously held by Yann until we had a bank account)
+2015-02-07  -    42.10      cafepress-niel/     CafePress T-shirt and Mug as gift for Niel

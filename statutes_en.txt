@@ -13,7 +13,7 @@ ARTICLE 1 : Constitution and naming
 
 An association is founded between the members, agreeing to the present statutes,
 and in accordance to the law of July the first, 1901 and the application decree
-of August, the sixteenth, 1901, and named Buildroot Foundation.
+of August, the sixteenth, 1901, and named Buildroot Association.
 
 ARTICLE 2 : Goal
 ----------------
@@ -21,7 +21,7 @@ ARTICLE 2 : Goal
 Buildroot is a project for the development of a free software, which goal is to
 simplify and automate the process of building embdeded systems.
 
-The goal for the Buildroot Foundation association (thereafter "the Association")
+The goal for the Buildroot Association (thereafter "the Association")
 is to support the Buildroot project.
 
 The Association has for goal to engage actions to promote, help develop and
@@ -171,7 +171,7 @@ of the tasks within the Association.
 
 
 Present statutes have been approved by the Constitutive Assembly of
-02/02/2016.
+17/03/2016.
 
 Names and signatures of the members of the Board:
 

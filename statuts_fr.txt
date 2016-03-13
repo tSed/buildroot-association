@@ -6,7 +6,7 @@ ARTICLE 1 : Constitution et dénomination
 
 Il est fondé entre les membres aux présents statuts une association régie par
 la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre
-Buildroot Foundation.
+Buildroot Association.
 
 ARTICLE 2 : Buts
 ----------------
@@ -14,7 +14,7 @@ ARTICLE 2 : Buts
 Buildroot est un projet de développement d'un logiciel libre, ayant pour but
 de simplifier et automatiser le processus de création d'un système embarqué.
 
-L'association Buildroot Foundation (ci-aprés, "l'Association") se place dans
+L'association Buildroot Association (ci-aprés, "l'Association") se place dans
 une perspective de soutien au projet Buildroot.
 
 L'Association a pour objet d'engager toute action susceptible d'assurer la
@@ -173,7 +173,7 @@ tâches dans l'Association.
 
 
 Les présents statuts ont été approuvés par l'Assemblée Constitutive du
-02/02/2016.
+17/03/2016.
 
 Noms et signatures des membres du Conseil d'Administration :
 

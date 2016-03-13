@@ -14,7 +14,8 @@ Date:
 Amount
     Amount of money, in Euros, of the transaction. When the original currency
     is not Euros, the documents of the transaction shall include the amount
-    in that currency and the necessary conversion rate.
+    in that currency and the necessary conversion rate at the date of the
+    purchase.
 
 Reference
     Name of a file or directory with the documents of the transaction.

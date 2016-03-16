@@ -1,0 +1,28 @@
+Procès verbal de l'assemblée constitutive de l'association Buildroot:
+Lieu: Chaussée d'Etterbeek 180, 1040 Bruxelles, Belgique
+Date: 14/03/2016
+Présents:
+    - Maxime Hadjinlian
+    - Peter Korsgaard
+    - Samuel Martin
+    - Yann E. Morin
+    - Romain Naour
+    - Thomas Petazzoni
+    - Thomas De Schampheleire
+    - Arnout Vandecappelle
+
+Sujet 1: Constitution de l'association
+
+Tous les membres présents acceptent les statuts de l'association à l'unanimité.
+
+Sujet 2: Election d'un représentant légal
+
+A l'unanimité, les membres ont élus M. Maxime Hadjinlian comme représentant
+légal.
+
+Sujet 3: Montant de la cotisation
+
+A l'unanimité, les membres ont établis le montant des cotisations comme suit:
+    - Pour les personnes morales : un minimum de 150 euros
+    - Pour les personnes physique : un minimum de 10 euros
+
